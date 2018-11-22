@@ -1,0 +1,8 @@
+{
+"server":"ss-server-ip",
+"server_port":8080,
+"local_port":1082,
+"password":"password",
+"timeout":600,
+"method":"aes-256-gcm"
+}
